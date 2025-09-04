@@ -5,3 +5,4 @@ IC Assignment 1: Chapter 1 of Ecology Handbook
 
 IC_Assignment 2: Chapter 2 of Ecology Handbook
 - making an exponential equation 
+- introduced matplotib, and plotting x and y-axis
