@@ -20,3 +20,7 @@ IC_assignment 4
 - used co-pilot to help find out when the populations reached 0 (if ever)
 - did most of the code on my own - yay
 
+IC exercise 3: how to calculate and solve for the ability to coexist
+- plotted different variables on Lotka-Volterrato graph try and see when the two plant species can coexist (used same code/data as previous class) 
+- introduced beta which is the effect that population X has on Y, whereas alpha is the effect that Y has on X
+- 
