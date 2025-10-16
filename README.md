@@ -23,4 +23,8 @@ IC_assignment 4
 IC exercise 3: how to calculate and solve for the ability to coexist
 - plotted different variables on Lotka-Volterrato graph try and see when the two plant species can coexist (used same code/data as previous class) 
 - introduced beta which is the effect that population X has on Y, whereas alpha is the effect that Y has on X
-- 
+
+IC Assignment (age-structured models - Chapter 12)
+- used matrix multiplication 
+- created an algorithm that calculates the beetle populations over 150 years
+- cretated two graphs, one showing the population growth without traps, and one showing the population growth with traps present. There was a significant decline in beetle populations when traps were present.
