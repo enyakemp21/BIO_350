@@ -29,9 +29,16 @@ IC Assignment (age-structured models - Chapter 12)
 - created an algorithm that calculates the beetle populations over 150 years
 - cretated two graphs, one showing the population growth without traps, and one showing the population growth with traps present. There was a significant decline in beetle populations when traps were present.
 
-IC Assignment
+IC Assignment (21 October)
 - Built an age-structured Leslie matrix model for a real-world example: loggerhead sea turtles, using 5 age classes with specified survival rates and fecundity.
 -Simulated population dynamics over 50 years, tracking both the absolute population and the percentage distribution across age classes.
 - Analyzed model behavior, identifying a transient phase (years 0–20) where age structure shifts, followed by a stable phase (years 20–50) with constant proportions across age classes.
 - Plotted normalized and percentage-based graphs, including a percentage graph with a y-axis break to better visualize small and large age class contributions.
 - Discussed the differences between normalized and percentage plots, and wrote clear explanations and summaries of model outcomes and graph interpretations.
+
+IC Assignment (23 October)
+- Did an assignment based on Chapter 13 and Chapter 14 of the Handbook of Quantitative Ecology
+- Built and simulated age- and species-structured population models for trees using Leslie-like transition matrices and survival/fecundity parameters.
+- Explored transition matrices and population dynamics for different tree species (Beech, Maple, Other), including species-specific survival and reproduction rates.
+- Simulated population dynamics of a two-species model with four states (including extinct and population states) using a given transition matrix over 50 years, while capping total population size at 100.
+- Visualized the population trend over time specifically for the first state (z_z or extinct) using a line plot.
