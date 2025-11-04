@@ -42,3 +42,6 @@ IC Assignment (23 October)
 - Explored transition matrices and population dynamics for different tree species (Beech, Maple, Other), including species-specific survival and reproduction rates.
 - Simulated population dynamics of a two-species model with four states (including extinct and population states) using a given transition matrix over 50 years, while capping total population size at 100.
 - Visualized the population trend over time specifically for the first state (z_z or extinct) using a line plot.
+
+IC Assignment 4 November
+- Downloaded 'clustering text documents suing k means' document from SciKit Learn 
