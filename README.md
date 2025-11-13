@@ -1,4 +1,5 @@
 # BIO_350 
+
 starting our BIO350 assignments repo
 IC Assignment 1: Chapter 1 of Ecology Handbook
 - making a difference equation 
@@ -45,3 +46,8 @@ IC Assignment (23 October)
 
 IC Assignment 4 November
 - Downloaded 'clustering text documents suing k means' document from SciKit Learn 
+
+11/13
+- Worked through final project
+- Decided on my question and what I wanted to model (looking at bird species, am I able to tell which bird comes from which environment: restored, or unrestored)
+- Ran model example
